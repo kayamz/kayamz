@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi I'm kaya 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayamz&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kayamz&show_icons=true">
 <!--
 **kayamz/kayamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
