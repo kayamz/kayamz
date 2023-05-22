@@ -1,4 +1,7 @@
-### Hi I'm kaya 👋
+<!-- ### Hi I'm kaya 👋 -->
+<div align="center">
+  <h3>Hi I'm kaya 🌿</h3>
+</div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayamz&layout=compact"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=kayamz&show_icons=true"> -->
 <!--
